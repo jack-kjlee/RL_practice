@@ -1,0 +1,7 @@
+tensorflow==1.13.1
+numpy==1.16.4
+matplotlib==3.0.3
+pandas==0.24.2
+Pillow==4.3.0
+h5py==2.8.0
+gym==0.10.11
